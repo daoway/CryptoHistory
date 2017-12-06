@@ -75,6 +75,12 @@
             <version>4.3.3</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.blogspot.ostas.trading</groupId>
+            <artifactId>TradesJsonCommon</artifactId>
+            <version>1.0</version>
+        </dependency>
+
     </dependencies>
 
     <build>
