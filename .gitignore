@@ -28,5 +28,4 @@ target
 dependency-reduced-pom.xml
 .Rhistory
 .RData
-kraken-*.json
 *.log.*
